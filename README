@@ -1,0 +1,4 @@
+See https://groups.google.com/forum/#!topic/akka-user/qbMiOAaDZEs
+
+Run with SBT:
+sbt run
